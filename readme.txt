@@ -24,6 +24,8 @@ Suppose you have product A and out of 60 visitors who viewed this product, 20 vi
 
 The important point is that it only shows those products which were mostly viewed and the most viewed comes in the first place. This ensures efficient performance and criteria of suggested products on your site because most of the customers consider only top visited or reviewed products.
 
+You  can check the frontend demo of this plugin at : 
+http://opensource.zealousweb.com/wordpress/CWVTIAV/
 
 == Plugin Requirement ==
 
